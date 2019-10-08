@@ -17,3 +17,8 @@ img {
 p {
   color: #777;
 }
+
+#disqus_thread {
+  margin: 2rem auto;
+  max-width: 600px;
+}
